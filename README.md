@@ -31,3 +31,7 @@ Sit back and let ParallelCurl do its job!
 
 License
 ParallelCurl is released under the MIT License. Feel free to use, modify, and distribute this tool as you see fit.
+  
+  ## Author
+
+* Muhammd Julfikar Hyder @thejulfikar
