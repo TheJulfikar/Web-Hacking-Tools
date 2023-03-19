@@ -1,6 +1,7 @@
 # Web-Hacking-Tools
 A repository of tools for security testing and ethical hacking.
-ParallelCurl
+
+# ParallelCurl
 ParallelCurl is a simple Bash script that allows you to perform multiple curl requests in parallel, with a range of values for a specific parameter in each request. This tool is especially useful for penetration testers and bug bounty hunters who need to test web applications with a large number of parameter values.
 
 With ParallelCurl, you can easily generate multiple curl requests with a specific parameter value replaced by a range of values, and run them in parallel. This can help you discover vulnerabilities in web applications and APIs more efficiently, as you can test a large number of parameter values in a shorter amount of time.
