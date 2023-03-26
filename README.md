@@ -17,10 +17,9 @@ To use ParallelCurl, simply provide a curl command in a text file, and specify t
 
 ## Installation
 To use ParallelCurl, simply clone this repository to your local machine:
-git clone https://github.com/<username>/ParallelCurl.git
+[ParallelCurl](https://github.com/TheJulfikar/Web-Hacking-Tools/blob/main/ParallelCurl.sh)
 
-## 
-  $ Usage
+## Usage
 
 1. Create a cURL command with the string 111111 where you want to insert a range of values
 2. Save the cURL command to a file, such as input.txt
@@ -37,16 +36,16 @@ Sit back and let ParallelCurl do its job!
 This is a Python script that searches Google for websites that may have responsible disclosure programs or vulnerability rewards and extracts any associated email addresses.
 
 ## Requirements
-Python 3.x
-googlesearch module
-requests module
+1. Python 3.x
+2. googlesearch module
+3. requests module
 
 ## You can install the required modules using pip:
 pip install googlesearch
 pip install requests
 
 ## Usage
-1. Clone the repository or download the script and dorks file.
+1. Clone the repository or download the [script](https://github.com/TheJulfikar/Web-Hacking-Tools/blob/main/responsible_disclosure_scraper.py) and dorks file.
 2. Open the dorks.txt file and add any custom search queries that you want to use, one per line. 
 3. By default, the script includes a list of common keywords for identifying responsible disclosure programs and vulnerability rewards.
 4. Run the script using the command:
