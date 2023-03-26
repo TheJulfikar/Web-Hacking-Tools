@@ -17,7 +17,7 @@ To use ParallelCurl, simply provide a curl command in a text file, and specify t
 
 ## Installation
 To use ParallelCurl, simply clone this repository to your local machine:
-git clone https://github.com/<username>/ParallelCurl.git
+git clone https://github.com/thejulfikar/ParallelCurl.git
 
 ## Usage
 
@@ -41,8 +41,8 @@ googlesearch module
 requests module
 
 ## You can install the required modules using pip:
-pip install googlesearch
-pip install requests
+1. pip install googlesearch
+2. pip install requests
 
 ## Usage
 1. Clone the repository or download the script and dorks file.
