@@ -29,8 +29,35 @@ git clone https://github.com/<username>/ParallelCurl.git
   
 Sit back and let ParallelCurl do its job!
 
-License
-ParallelCurl is released under the MIT License. Feel free to use, modify, and distribute this tool as you see fit.
+
+## Responsible Disclosure Scraper
+This is a Python script that searches Google for websites that may have responsible disclosure programs or vulnerability rewards and extracts any associated email addresses.
+
+# Requirements
+Python 3.x
+googlesearch module
+requests module
+
+# You can install the required modules using pip:
+pip install googlesearch
+pip install requests
+
+# Usage
+1. Clone the repository or download the script and dorks file.
+2. Open the dorks.txt file and add any custom search queries that you want to use, one per line. 
+3. By default, the script includes a list of common keywords for identifying responsible disclosure programs and vulnerability rewards.
+4. Run the script using the command:
+
+python responsible_disclosure_scraper.py
+
+5. The script will search Google for each query in dorks.txt and extract any email addresses associated with responsible disclosure programs or vulnerability rewards. Emails will be saved to the emails.txt file and URLs without email addresses will be saved to the no_emails.txt file.
+
+Note: The script may take some time to run depending on the number of search queries in dorks.txt and the number of results returned by Google.
+
+# Disclaimer
+This script is intended for educational and ethical use only. Do not use this script to identify or exploit vulnerabilities without permission from website owners. The author is not responsible for any damages or legal consequences caused by the misuse of this script.
+
+
   
 
 # Author
