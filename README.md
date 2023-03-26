@@ -41,8 +41,8 @@ This is a Python script that searches Google for websites that may have responsi
 3. requests module
 
 ## You can install the required modules using pip:
-pip install googlesearch
-pip install requests
+1. pip install googlesearch
+2. pip install requests
 
 ## Usage
 1. Clone the repository or download the [script](https://github.com/TheJulfikar/Web-Hacking-Tools/blob/main/responsible_disclosure_scraper.py) and dorks file.
