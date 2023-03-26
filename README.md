@@ -29,6 +29,8 @@ git clone https://github.com/<username>/ParallelCurl.git
   
 Sit back and let ParallelCurl do its job!
 
+  
+  
 
 ## Responsible Disclosure Scraper
 This is a Python script that searches Google for websites that may have responsible disclosure programs or vulnerability rewards and extracts any associated email addresses.
