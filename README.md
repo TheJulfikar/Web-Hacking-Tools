@@ -32,19 +32,19 @@ Sit back and let ParallelCurl do its job!
   
   
 
-## Responsible Disclosure Scraper
+# Responsible Disclosure Scraper
 This is a Python script that searches Google for websites that may have responsible disclosure programs or vulnerability rewards and extracts any associated email addresses.
 
-# Requirements
+## Requirements
 Python 3.x
 googlesearch module
 requests module
 
-# You can install the required modules using pip:
+## You can install the required modules using pip:
 pip install googlesearch
 pip install requests
 
-# Usage
+## Usage
 1. Clone the repository or download the script and dorks file.
 2. Open the dorks.txt file and add any custom search queries that you want to use, one per line. 
 3. By default, the script includes a list of common keywords for identifying responsible disclosure programs and vulnerability rewards.
@@ -56,7 +56,7 @@ python responsible_disclosure_scraper.py
 
 Note: The script may take some time to run depending on the number of search queries in dorks.txt and the number of results returned by Google.
 
-# Disclaimer
+## Disclaimer
 This script is intended for educational and ethical use only. Do not use this script to identify or exploit vulnerabilities without permission from website owners. The author is not responsible for any damages or legal consequences caused by the misuse of this script.
 
 
