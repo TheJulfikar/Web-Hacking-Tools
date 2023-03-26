@@ -17,9 +17,10 @@ To use ParallelCurl, simply provide a curl command in a text file, and specify t
 
 ## Installation
 To use ParallelCurl, simply clone this repository to your local machine:
-git clone https://github.com/thejulfikar/ParallelCurl.git
+git clone https://github.com/<username>/ParallelCurl.git
 
-## Usage
+## 
+  $ Usage
 
 1. Create a cURL command with the string 111111 where you want to insert a range of values
 2. Save the cURL command to a file, such as input.txt
@@ -41,8 +42,8 @@ googlesearch module
 requests module
 
 ## You can install the required modules using pip:
-1. pip install googlesearch
-2. pip install requests
+pip install googlesearch
+pip install requests
 
 ## Usage
 1. Clone the repository or download the script and dorks file.
